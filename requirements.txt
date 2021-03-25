@@ -49,7 +49,7 @@ pyrsistent==0.15.3
 python-dateutil==2.8.0
 python-dotenv==0.10.3
 pytz==2019.1
-PyYAML==5.1.1
+PyYAML==5.4
 requests==2.22.0
 requests-file==1.4.3
 requests-ftp==0.3.1
